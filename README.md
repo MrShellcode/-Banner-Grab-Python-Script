@@ -1,1 +1,1 @@
-# -Banner-Grab-Python-Script
+# Banner Grab Python Script
